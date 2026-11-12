@@ -1,0 +1,6 @@
+{
+  "name": "SG ParkPulse - Singapore Real-Time Carpark Availability",
+  "description": "Live Singapore carpark lot availability tracker with HDB, URA, and shopping mall occupancy, EPS pricing calculator, EV charging filters, and interactive navigation map.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
